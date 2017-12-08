@@ -2,11 +2,10 @@
 # **_About Me_**
 
 My name is Alan Heanue I am a 4th year software development Studying in the Galway-Mayo Intitute of Technology
-This is one of 5 modules i am Working on this semester it focuses mainly on Windows Unversal Application 
+This is one of 5 modules i am Working on this semester it focuses mainly on Windows Unversal Application.  
 
 
-
-# **_A MVVM UWP APP_**
+## **_A MVVM UWP APP_**
 With the introduction of Win 10 and Universal Windows apps I wanted to try out some of the new XAML features like compile-time binding with x:Bind.
 
 I started by looking for a very simple Universal Windows Platform (UWP) sample that showed how to build an MVVM app with create, read, update, and delete (CRUD) operations over some data source.  Surprisingly, I really didn’t find anything specific for UWPs.  Of course there are many samples for WPF but they required a rewrite for UWP and they don’t leverage the new XAML capabilities making them more complicated than necessary. Similarly the core UWP XAML samples don’t show how to do CRUD and while they covered new capabilities they include a lot of unrelated stuff that makes them less useful as a starting point for your own apps.
@@ -153,13 +152,14 @@ All the code can be found here on GitHub.
 - Background Services
 - Change in background  
 
+![Alt text](C:\Users\heanu\Documents\GitHub\WindowsUWP_APP\Screenshot (19).png "Optional title")
 
 
 ## **_To run this app_**
-
+To run this app you will need to run it in visual studio after you clone this repo you need to open folder with VS17 
 
 ### **_Conclusion_**
-
+Creating an UWP application can be very frustrating but as the more i worked on it i realised how VS17 is great to work with but my laptop is not great i found it very laggy and slow at times. but from looking at microsoft for the future i could see potential in the platform i hope to maybe do further study in this field and create another few applications for Window devices. 
 
 ### **_References_**
  - https://docs.microsoft.com/en-us/windows/uwp/design/shell/tiles-and-notifications/secondary-tiles-pinning
