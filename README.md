@@ -1,4 +1,5 @@
 ![alt tag](https://www.yoyogames.com/system/blogs/featured_images/000/000/377/original/uwp-o.png?1459438884)
+
 # **_About Me_**
 
 My name is Alan Heanue I am a 4th year software development Studying in the Galway-Mayo Intitute of Technology
@@ -16,6 +17,8 @@ If you work through this example, you can see how it uses the new x:Bind capabil
 
 ## **_Why MVVM?_**
 Before we look at the code, I wanted to touch on whether it is worth the effort to use an approach like MVVM (Model, View, ViewModel).  The basics of MVVM are pretty simple…
+
+                ![alt tag](https://developerhandbook.com/wp-content/uploads/2013/05/mvvm-simplification1.jpg)
 
 **Model**
     Think of the models as the business objects.  A Model should know about nothing about the user experience - specifically the View or how it is implemented using a ViewModel.  The Model only interact with system and data services. 
