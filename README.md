@@ -152,8 +152,7 @@ All the code can be found here on GitHub.
 - Background Services
 - Change in background  
 
-![Alt text](C:\Users\heanu\Documents\GitHub\WindowsUWP_APP\Screenshot (19).png "Optional title")
-
+![Alt text](Screenshot (19).png?raw=true "Title")
 
 ## **_To run this app_**
 To run this app you will need to run it in visual studio after you clone this repo you need to open folder with VS17 
