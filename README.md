@@ -152,7 +152,7 @@ All the code can be found here on GitHub.
 - Background Services
 - Change in background  
 
-![Alt text](Screenshot (19).png?raw=true "Title")
+![alt tag](https://github.com/heanuea/WindowsUWP_APP/blob/master/Screenshot%20(19).png)
 
 ## **_To run this app_**
 To run this app you will need to run it in visual studio after you clone this repo you need to open folder with VS17 
