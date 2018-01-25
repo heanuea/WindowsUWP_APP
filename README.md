@@ -133,7 +133,7 @@ All the code can be found here on GitHub.
                     }
                 }
             };
-
+    
             // Create the toast
             var toast = new ToastNotification(content.GetXml())
             {
@@ -168,4 +168,4 @@ Creating an UWP application can be very frustrating but as the more i worked on 
  - https://developer.microsoft.com/en-US/dashboard/products/9P45NVNN4TWP/submissions/1152921504627227065/CertificationStatus
  - https://www.visualstudio.com/vs/modern-web-tooling/
  - https://channel9.msdn.com/Series/Windows-10-development-for-absolute-beginners/UWP-071-Hero-Explorer--Introduction
- - 
+ 
